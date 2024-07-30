@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**Mylenah/Mylenah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mylenah Pereira 
 
-Here are some ideas to get you started:
+- Estou conhecendo um pouco mais do Alura
+- Utilizo esse espaço para meu desenvolvimento e compartilhamentos de atividades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  00001100793331@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/bd2kfX8aN58AAAAC/bye-waving.gif)
+
+  
+  
